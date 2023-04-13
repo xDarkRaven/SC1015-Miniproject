@@ -9,6 +9,7 @@
 
 # About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Video Games Sales. For detailed walkthrough and our group's findings, please view the [source code](/Code/VideoGamesProj.ipynb).
+![SC1015_PPT](https://user-images.githubusercontent.com/34603548/231744531-90232357-a063-4050-8e23-7d1937ef4744.jpg)
 
 
 # Objective
