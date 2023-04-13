@@ -65,4 +65,6 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 + Santos, G. (2022, October 24). How to choose the number of estimators for gradient boosting. Medium. Retrieved April 13, 2023, from https://towardsdatascience.com/how-to-choose-the-number-of-estimators-for-gradient-boosting-8d06920ab891 
 + Brownlee, J. (2020, August 14). A gentle introduction to the gradient boosting algorithm for machine learning. MachineLearningMastery.com. Retrieved April 13, 2023, from https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/ 
++ Kirubi, R. (2016, December 30). Video game sales with ratings. Kaggle. Retrieved April 13, 2023, from https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings 
++ Koustubhk. (2022, June 15). Large video game companies. Kaggle. Retrieved April 13, 2023, from https://www.kaggle.com/datasets/kkhandekar/large-video-game-companies 
 
