@@ -24,5 +24,5 @@ The objective of this project is to analyse the dataset of video game sales and 
 	+ [GamingCompanies.csv](/Datasets/GamingCompanies.csv.csv)
 		+ The Large Video Game Companies dataset that was used in the project. The dataset can be found [here](https://www.kaggle.com/datasets/kkhandekar/large-video-game-companies)
 + Presentation Slides
-	+ [SC1015_Miniproject_Slides.pptx](/Presentation Slides/SC1015_Miniproject_Slides.pptx)
+	+ [SC1015_Miniproject_Slides.pptx](/Presentation_Slides/SC1015_Miniproject_Slides.pptx)
 		+ Our group's powerpoint slides for the project.
