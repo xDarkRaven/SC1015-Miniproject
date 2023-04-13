@@ -16,5 +16,5 @@ The objective of this project is to analyse the dataset of video game sales and 
 
 # Folder/Files Descriptions
 1. Code
-	+VideoGamesProj.ipynb
+	+ VideoGamesProj.ipynb
 + Datasets
