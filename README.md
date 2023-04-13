@@ -13,7 +13,29 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 
 # Objective
-The objective of this project is to analyse the dataset of video game sales and gain insights into the factors that determine the success of video games.
++ The objective of this project is to analyse the dataset of video game sales and gain insights into the factors that determine the success of video games.
++ The best machine learning model to predict the success of video games
+
+# Models Used
++ Linear Regression (Baseline model)
++ Gradient Boosting Regression (Our Main Model)
++ K-Nearest Neighbors Regression
++ Random Forest Regression
++ Ridge Linear Regression
+
+
+# Conclusions
++ Critic_Score have high correlation with the sales of a video game
++ Although Revenue, Earnings have high correlation they are not used for predicting as it is understood that higher revenue equates to higher sales
++ User Score and Year of Release of a video game are one of the lowest correlation with the sale of a video game
++ Hyperparameter tuning of Gradient Boosting took a very long time as it has many hyperparameters.
++ Hyperparameter tuning of Gradient Boosting did not improved the model's result significantly at all.
+
+# What did we learn from this project?
++ Using of colab to collaborate
++ Gradient Boosting
++ Merging of datasets and how to handle null values
++ Which performance metric to use (Mean Absolute Error vs Mean Squared Error)
 
 # Folder/Files Descriptions
 + Code
