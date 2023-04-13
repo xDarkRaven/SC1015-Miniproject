@@ -29,13 +29,19 @@ The objective of this project is to analyse the dataset of video game sales and 
 		+ Our group's powerpoint slides for the project.
 
 # Contributions
-| Names         | Contributions |
-| ------------- |:-------------:|
-| Darrus        | Checkpoint 3 & 4     |
-| Charmain      | Checkpoint 2     |
-| Shivani       | Checkpoint 1     |
++ Darrus
+	+ Mainly Machine Learning (Checkpoint 3 & 4)
+	+ Merging of Datasets
+	+ Some parts of Data Visualisation
++ Charmain
+	+ Data Preprocessing (Checkpoint 2)
+	+ Data Visualisation (Checkpoint 2)
+	+ 
++ Shivani
+	+ Detailed Introduction of Project (Checkpoint 1)
+	+ Data Visualisation (Checkpoint 2)
 # Reference
 
 + Santos, G. (2022, October 24). How to choose the number of estimators for gradient boosting. Medium. Retrieved April 13, 2023, from https://towardsdatascience.com/how-to-choose-the-number-of-estimators-for-gradient-boosting-8d06920ab891 
 + Brownlee, J. (2020, August 14). A gentle introduction to the gradient boosting algorithm for machine learning. MachineLearningMastery.com. Retrieved April 13, 2023, from https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/ 
-+ 
+
