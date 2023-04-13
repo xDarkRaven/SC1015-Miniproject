@@ -36,7 +36,6 @@ The objective of this project is to analyse the dataset of video game sales and 
 + Charmain
 	+ Data Preprocessing (Checkpoint 2)
 	+ Data Visualisation (Checkpoint 2)
-	+ 
 + Shivani
 	+ Detailed Introduction of Project (Checkpoint 1)
 	+ Data Visualisation (Checkpoint 2)
